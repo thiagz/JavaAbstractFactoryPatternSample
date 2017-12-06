@@ -12,7 +12,11 @@ Java APIs that use Prototype Design Pattern are
 
 javax.xml.parsers.DocumentBuilderFactory#newInstance()  
 javax.xml.transform.TransformerFactory#newInstance()  
-javax.xml.xpath.XPathFactory#newInstance()   
+javax.xml.xpath.XPathFactory#newInstance()  
+
+Type
+-----  
+Creational Pattern   
   
 Author
 ------
